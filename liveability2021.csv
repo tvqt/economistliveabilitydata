@@ -1,0 +1,1121 @@
+country,city,iso3,iso3_cit,eiu_region,year,value,rank
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2021,96,1
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2021,94.2,2
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2021,94,3
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2021,93.7,4
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2021,93.7,4
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2021,93.3,6
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2021,92.8,7
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2021,92.5,8
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2021,92.5,8
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2021,92.4,10
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2021,92.1,11
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2021,92,12
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2021,91.7,13
+United States,Honolulu,USA,USA_HON,North America,2021,90.6,14
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2021,90,15
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2021,88.3,16
+Canada,Vancouver,CAN,CAN_VAN,North America,2021,88.3,16
+Canada,Calgary,CAN,CAN_CAL,North America,2021,87.5,18
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2021,86.8,19
+Canada,Toronto,CAN,CAN_TOR,North America,2021,86.7,20
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2021,86.6,21
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2021,86.2,22
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2021,86,23
+United States,Atlanta,USA,USA_ATL,North America,2021,85.6,24
+United States,Pittsburgh,USA,USA_PIT,North America,2021,85.3,25
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2021,85.1,26
+Germany,Berlin,DEU,DEU_BER,Western Europe,2021,84.9,27
+United States,Chicago,USA,USA_CHI,North America,2021,84.3,28
+United States,Miami,USA,USA_MIA,North America,2021,84.3,28
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2021,84.1,30
+United States,Houston,USA,USA_HOU,North America,2021,84,31
+Germany,Munich,DEU,DEU_MUN,Western Europe,2021,84,31
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2021,83.9,33
+United States,Boston,USA,USA_BOS,North America,2021,83.8,34
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2021,83.8,34
+United States,Minneapolis,USA,USA_MIN,North America,2021,83.4,36
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2021,82.9,37
+France,Lyon,FRA,FRA_LYO,Western Europe,2021,82.9,37
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2021,82.8,39
+United States,Seattle,USA,USA_SEA,North America,2021,82.7,40
+Canada,Montreal,CAN,CAN_MON,North America,2021,82.7,40
+France,Paris,FRA,FRA_PAR,Western Europe,2021,82.5,42
+Italy,Milan,ITA,ITA_MIL,Western Europe,2021,82.4,43
+United States,San Francisco,USA,USA_SAN,North America,2021,82.4,43
+United States,Washington DC,USA,USA_WAS,North America,2021,82.4,43
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2021,82.1,46
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2021,81.9,47
+United States,Cleveland,USA,USA_CLE,North America,2021,81.8,48
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2021,81.7,49
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2021,80.2,50
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2021,80.1,51
+United States,Detroit,USA,USA_DET,North America,2021,79.5,52
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2021,79.3,53
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2021,78.3,54
+United States,Los Angeles,USA,USA_LOS,North America,2021,78,55
+United States,Lexington,USA,USA_LEX,North America,2021,77.7,56
+Italy,Rome,ITA,ITA_ROM,Western Europe,2021,77.3,57
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2021,77.2,58
+United States,New York,USA,USA_NEW,North America,2021,76.9,59
+Britain,London,GBR,GBR_LON,Western Europe,2021,76.7,60
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2021,76.5,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2021,75.8,62
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2021,73.5,63
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2021,73.3,64
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2021,73.2,65
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2021,73.2,65
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2021,73,67
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2021,72.8,68
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2021,72.6,69
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2021,72.2,70
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2021,71.7,71
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2021,71.2,72
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2021,70.5,73
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2021,70,74
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2021,69.9,75
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2021,69.7,76
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2021,69.3,77
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2021,68,78
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2021,67.3,79
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2021,67.2,80
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2021,66.4,81
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2021,66.3,82
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2021,65.5,83
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2021,65.4,84
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2021,65.1,85
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2021,64.6,86
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2021,64.4,87
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2021,64.3,88
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2021,64.3,88
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2021,63.9,90
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2021,63.9,90
+Greece,Athens,GRC,GRC_ATH,Western Europe,2021,62.9,92
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2021,61.5,93
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2021,60,94
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2021,59.9,95
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2021,59.8,96
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2021,59.5,97
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2021,59.3,98
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2021,59,99
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2021,58.8,100
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2021,58.1,101
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2021,57.9,102
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2021,57.5,103
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2021,57.3,104
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2021,55.2,105
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2021,55.2,105
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2021,53.7,107
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2021,53.5,108
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2021,53.4,109
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2021,53,110
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2021,52.3,111
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2021,51.5,112
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2021,51.4,113
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2021,51.2,114
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2021,51.2,114
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2021,49.9,116
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2021,49.8,117
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2021,49.5,118
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2021,49.1,119
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2021,48.7,120
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2021,47.3,121
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2021,46.9,122
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2021,46.8,123
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2021,46.5,124
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2021,45,125
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2021,45,125
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2021,44.8,127
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2021,44.1,128
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2021,42.9,129
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2021,42,130
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2021,41.7,131
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2021,38.6,132
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2021,36.6,133
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2021,36.2,134
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2021,34.2,135
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2021,34.1,136
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2021,33.5,137
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2021,32.5,138
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2021,31.2,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2021,26.5,140
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2019,99.1,1
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2019,98.4,2
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2019,98.1,3
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2019,97.7,4
+Canada,Calgary,CAN,CAN_CAL,North America,2019,97.5,5
+Canada,Vancouver,CAN,CAN_VAN,North America,2019,97.3,6
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2019,97.2,7
+Canada,Toronto,CAN,CAN_TOR,North America,2019,97.2,7
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2019,96.8,9
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2019,96.6,10
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2019,96.3,11
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2019,96,12
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2019,96,12
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2019,95.9,14
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2019,95.9,14
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2019,95.6,16
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2019,95.3,17
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2019,95,18
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2019,95,18
+Germany,Berlin,DEU,DEU_BER,Western Europe,2019,94.7,20
+United States,Honolulu,USA,USA_HON,North America,2019,94.1,21
+Canada,Montreal,CAN,CAN_MON,North America,2019,94.1,21
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2019,94,23
+Germany,Munich,DEU,DEU_MUN,Western Europe,2019,93.8,24
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2019,93.6,25
+France,Paris,FRA,FRA_PAR,Western Europe,2019,93.6,25
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2019,93.4,27
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2019,93.3,28
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2019,93,29
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2019,92.7,30
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2019,92.5,31
+France,Lyon,FRA,FRA_LYO,Western Europe,2019,92.5,31
+United States,Atlanta,USA,USA_ATL,North America,2019,92.3,33
+United States,Pittsburgh,USA,USA_PIT,North America,2019,92.1,34
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2019,92,35
+United States,Seattle,USA,USA_SEA,North America,2019,91.6,36
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2019,91.5,37
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2019,91.3,38
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2019,91.2,39
+United States,Washington DC,USA,USA_WAS,North America,2019,91.2,39
+United States,Chicago,USA,USA_CHI,North America,2019,91.1,41
+United States,Miami,USA,USA_MIA,North America,2019,91.1,41
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2019,90.9,43
+United States,Boston,USA,USA_BOS,North America,2019,90.5,44
+United States,San Francisco,USA,USA_SAN,North America,2019,90.3,45
+United States,Minneapolis,USA,USA_MIN,North America,2019,90.2,46
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2019,89.9,47
+Britain,London,GBR,GBR_LON,Western Europe,2019,89.9,47
+Italy,Milan,ITA,ITA_MIL,Western Europe,2019,89.5,49
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2019,88.8,50
+United States,Los Angeles,USA,USA_LOS,North America,2019,88.6,51
+United States,Cleveland,USA,USA_CLE,North America,2019,88.5,52
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2019,87.8,53
+Italy,Rome,ITA,ITA_ROM,Western Europe,2019,87.7,54
+United States,Houston,USA,USA_HOU,North America,2019,87.6,55
+United States,Detroit,USA,USA_DET,North America,2019,86.3,56
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2019,86.1,57
+United States,New York,USA,USA_NEW,North America,2019,85.4,58
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2019,85.1,59
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2019,84.7,60
+United States,Lexington,USA,USA_LEX,North America,2019,84.6,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2019,83.6,62
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2019,81.9,63
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2019,81.5,64
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2019,80.4,65
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2019,80.3,66
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2019,80.1,67
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2019,80,68
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2019,78,69
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2019,77,70
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2019,76.8,71
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2019,76.7,72
+Greece,Athens,GRC,GRC_ATH,Western Europe,2019,76,73
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2019,75.7,74
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2019,75,75
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2019,74.9,76
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2019,74.5,77
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2019,74.3,78
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2019,74.2,79
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2019,73.9,80
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2019,73.2,81
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2019,72.9,82
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2019,72.7,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2019,72.2,84
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2019,72.2,84
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2019,72.1,86
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2019,70.9,87
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2019,70.8,88
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2019,70.3,89
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2019,69.7,90
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2019,69.7,90
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2019,69.4,92
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2019,69.3,93
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2019,69.1,94
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2019,68.8,95
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2019,67.8,96
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2019,66.1,97
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2019,66,98
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2019,65.6,99
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2019,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2019,65.1,101
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2019,64.1,102
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2019,62,103
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2019,61.6,104
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2019,61.1,105
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2019,59.8,106
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2019,59.7,107
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2019,59.6,108
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2019,59.6,108
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2019,59.3,110
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2019,59,111
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2019,58.2,112
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2019,57.8,113
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2019,57.8,113
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2019,57.1,115
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2019,57.1,115
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2019,56.6,117
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2019,56.3,118
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2019,56.2,119
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2019,55.4,120
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2019,54.7,121
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2019,54.4,122
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2019,52.2,123
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2019,51.7,124
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2019,51.6,125
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2019,51.4,126
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2019,51,127
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2019,51,127
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2019,49.5,129
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2019,48.3,130
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2019,46.9,131
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2019,44,132
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2019,42.6,133
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2019,41,134
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2019,40.9,135
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2019,40.4,136
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2019,40.3,137
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2019,39.2,138
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2019,38.5,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2019,30.7,140
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2018,99.1,1
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2018,98.4,2
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2018,98.1,3
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2018,97.7,4
+Canada,Calgary,CAN,CAN_CAL,North America,2018,97.5,5
+Canada,Vancouver,CAN,CAN_VAN,North America,2018,97.3,6
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2018,97.2,7
+Canada,Toronto,CAN,CAN_TOR,North America,2018,97.2,7
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2018,96.8,9
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2018,96.6,10
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2018,96.3,11
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2018,96,12
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2018,96,12
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2018,95.9,14
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2018,95.9,14
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2018,95.6,16
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2018,95.3,17
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2018,95,18
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2018,95,18
+Canada,Montreal,CAN,CAN_MON,North America,2018,94.8,20
+France,Paris,FRA,FRA_PAR,Western Europe,2018,94.8,20
+Germany,Berlin,DEU,DEU_BER,Western Europe,2018,94.7,22
+United States,Honolulu,USA,USA_HON,North America,2018,94.1,23
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2018,94,24
+Germany,Munich,DEU,DEU_MUN,Western Europe,2018,93.8,25
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2018,93.6,26
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2018,93.4,27
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2018,93.3,28
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2018,93,29
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2018,92.7,30
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2018,92.5,31
+France,Lyon,FRA,FRA_LYO,Western Europe,2018,92.5,31
+United States,Atlanta,USA,USA_ATL,North America,2018,92.3,33
+United States,Pittsburgh,USA,USA_PIT,North America,2018,92.1,34
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2018,92,35
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2018,91.5,36
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2018,91.3,37
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2018,91.3,37
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2018,91.2,39
+United States,Washington DC,USA,USA_WAS,North America,2018,91.2,39
+United States,Chicago,USA,USA_CHI,North America,2018,91.1,41
+United States,Miami,USA,USA_MIA,North America,2018,91.1,41
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2018,90.9,43
+United States,Boston,USA,USA_BOS,North America,2018,90.5,44
+United States,Seattle,USA,USA_SEA,North America,2018,90.3,45
+United States,San Francisco,USA,USA_SAN,North America,2018,90.3,45
+United States,Minneapolis,USA,USA_MIN,North America,2018,90.2,47
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2018,89.9,48
+Britain,London,GBR,GBR_LON,Western Europe,2018,89.9,48
+Italy,Milan,ITA,ITA_MIL,Western Europe,2018,89.5,50
+United States,Los Angeles,USA,USA_LOS,North America,2018,88.6,51
+United States,Cleveland,USA,USA_CLE,North America,2018,88.4,52
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2018,87.8,53
+Italy,Rome,ITA,ITA_ROM,Western Europe,2018,87.7,54
+United States,Houston,USA,USA_HOU,North America,2018,87.6,55
+United States,Detroit,USA,USA_DET,North America,2018,86.3,56
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2018,86.1,57
+United States,New York,USA,USA_NEW,North America,2018,85.4,58
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2018,85.1,59
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2018,84.7,60
+United States,Lexington,USA,USA_LEX,North America,2018,84.6,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2018,83.6,62
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2018,81.9,63
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2018,81.5,64
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2018,80.4,65
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2018,80.3,66
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2018,80,67
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2018,78.9,68
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2018,78.7,69
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2018,76.8,70
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2018,76.7,71
+Greece,Athens,GRC,GRC_ATH,Western Europe,2018,76,72
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2018,75.9,73
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2018,75.7,74
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2018,75,75
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2018,74.9,76
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2018,74.3,77
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2018,74.2,78
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2018,73.9,79
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2018,73.2,80
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2018,73.2,80
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2018,72.9,82
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2018,72.7,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2018,72.2,84
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2018,72.2,84
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2018,72.1,86
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2018,71.2,87
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2018,71,88
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2018,70.8,89
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2018,70.3,90
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2018,69.7,91
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2018,69.3,92
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2018,69.1,93
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2018,68.8,94
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2018,68.2,95
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2018,67.8,96
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2018,66.1,97
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2018,66,98
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2018,65.6,99
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2018,65.3,100
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2018,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2018,65.1,102
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2018,62,103
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2018,61.8,104
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2018,61.1,105
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2018,59.8,106
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2018,59.7,107
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2018,59.6,108
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2018,59.6,108
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2018,59.3,110
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2018,59,111
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2018,58.2,112
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2018,57.8,113
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2018,57.8,113
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2018,57.1,115
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2018,57.1,115
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2018,56.6,117
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2018,56.3,118
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2018,56.2,119
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2018,55.4,120
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2018,54.7,121
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2018,54.4,122
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2018,54.2,123
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2018,52.3,124
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2018,52.2,125
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2018,51.4,126
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2018,51,127
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2018,51,127
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2018,49.5,129
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2018,48.3,130
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2018,46.9,131
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2018,43.4,132
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2018,43.3,133
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2018,42.6,134
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2018,41,135
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2018,40.9,136
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2018,39.2,137
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2018,39.1,138
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2018,38.5,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2018,30.7,140
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2017,97.5,1
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2017,97.4,2
+Canada,Vancouver,CAN,CAN_VAN,North America,2017,97.3,3
+Canada,Toronto,CAN,CAN_TOR,North America,2017,97.2,4
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2017,96.6,5
+Canada,Calgary,CAN,CAN_CAL,North America,2017,96.6,5
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2017,95.9,7
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2017,95.9,7
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2017,95.7,9
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2017,95.7,9
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2017,95.6,11
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2017,95,12
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2017,94.9,13
+Canada,Montreal,CAN,CAN_MON,North America,2017,94.8,14
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2017,94.3,15
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2017,94.2,16
+United States,Honolulu,USA,USA_HON,North America,2017,94.1,17
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2017,94,18
+Germany,Berlin,DEU,DEU_BER,Western Europe,2017,94,18
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2017,94,18
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2017,93.6,21
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2017,93.5,22
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2017,93.5,22
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2017,92.7,24
+Germany,Munich,DEU,DEU_MUN,Western Europe,2017,92.6,25
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2017,92.2,26
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2017,92.1,27
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2017,92,28
+France,Lyon,FRA,FRA_LYO,Western Europe,2017,91.3,29
+United States,Washington DC,USA,USA_WAS,North America,2017,91.2,30
+France,Paris,FRA,FRA_PAR,Western Europe,2017,91.1,31
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2017,91.1,31
+United States,Boston,USA,USA_BOS,North America,2017,90.5,33
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2017,90.4,34
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2017,90.1,35
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2017,90.1,35
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2017,89.9,37
+United States,Chicago,USA,USA_CHI,North America,2017,89.8,38
+United States,Miami,USA,USA_MIA,North America,2017,89.8,38
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2017,89.7,40
+United States,Pittsburgh,USA,USA_PIT,North America,2017,89.6,41
+United States,Minneapolis,USA,USA_MIN,North America,2017,89.6,41
+Italy,Milan,ITA,ITA_MIL,Western Europe,2017,89.5,43
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2017,89.5,43
+United States,Seattle,USA,USA_SEA,North America,2017,88.8,45
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2017,88.7,46
+United States,Atlanta,USA,USA_ATL,North America,2017,88.6,47
+United States,Los Angeles,USA,USA_LOS,North America,2017,88.6,47
+United States,Cleveland,USA,USA_CLE,North America,2017,88.4,49
+Italy,Rome,ITA,ITA_ROM,Western Europe,2017,87.7,50
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2017,87.5,51
+United States,San Francisco,USA,USA_SAN,North America,2017,87.4,52
+Britain,London,GBR,GBR_LON,Western Europe,2017,87.2,53
+United States,Houston,USA,USA_HOU,North America,2017,87,54
+United States,New York,USA,USA_NEW,North America,2017,85.4,55
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2017,85.3,56
+United States,Detroit,USA,USA_DET,North America,2017,85,57
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2017,84.9,58
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2017,84.7,59
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2017,83.9,60
+United States,Lexington,USA,USA_LEX,North America,2017,83.3,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2017,82.4,62
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2017,81.9,63
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2017,81.5,64
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2017,80.3,65
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2017,79.1,66
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2017,78.9,67
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2017,78.7,68
+Greece,Athens,GRC,GRC_ATH,Western Europe,2017,75.3,69
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2017,75.2,70
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2017,75.2,70
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2017,75,72
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2017,74.9,73
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2017,74.7,74
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2017,74.4,75
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2017,74.2,76
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2017,74.1,77
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2017,73.6,78
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2017,72.9,79
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2017,72.8,80
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2017,72.6,81
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2017,72.1,82
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2017,71.8,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2017,71.5,84
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2017,70.9,85
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2017,70.5,86
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2017,70.3,87
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2017,69.7,88
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2017,69.7,88
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2017,69.1,90
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2017,68.8,91
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2017,68.2,92
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2017,68,93
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2017,67.9,94
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2017,67.8,95
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2017,67.5,96
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2017,66.7,97
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2017,66.1,98
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2017,66,99
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2017,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2017,65.1,101
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2017,64.3,102
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2017,62.3,103
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2017,62,104
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2017,61.1,105
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2017,60.3,106
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2017,59.8,107
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2017,59.6,108
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2017,59.3,109
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2017,58.9,110
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2017,58.5,111
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2017,58.2,112
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2017,57.8,113
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2017,57.1,114
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2017,56.9,115
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2017,56.7,116
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2017,55.4,117
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2017,55.4,117
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2017,55.2,119
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2017,54.6,120
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2017,54.4,121
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2017,53.1,122
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2017,53,123
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2017,52.2,124
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2017,51.4,125
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2017,51.3,126
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2017,51,127
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2017,51,127
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2017,51,127
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2017,50.8,130
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2017,48.3,131
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2017,44,132
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2017,42.6,133
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2017,40.9,134
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2017,40.9,134
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2017,39.6,136
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2017,38.7,137
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2017,38.5,138
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2017,36.6,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2017,30.7,140
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2016,97.5,1
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2016,97.4,2
+Canada,Vancouver,CAN,CAN_VAN,North America,2016,97.3,3
+Canada,Toronto,CAN,CAN_TOR,North America,2016,97.2,4
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2016,96.6,5
+Canada,Calgary,CAN,CAN_CAL,North America,2016,96.6,5
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2016,95.9,7
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2016,95.7,8
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2016,95.6,9
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2016,95,10
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2016,94.9,11
+Canada,Montreal,CAN,CAN_MON,North America,2016,94.8,12
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2016,94.7,13
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2016,94.5,14
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2016,94.3,15
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2016,94.2,16
+United States,Honolulu,USA,USA_HON,North America,2016,94.1,17
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2016,94,18
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2016,93.6,19
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2016,93.5,20
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2016,93.5,20
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2016,93.3,22
+Germany,Berlin,DEU,DEU_BER,Western Europe,2016,92.8,23
+Germany,Munich,DEU,DEU_MUN,Western Europe,2016,92.6,24
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2016,92.2,25
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2016,92,26
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2016,91.5,27
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2016,91.4,28
+France,Lyon,FRA,FRA_LYO,Western Europe,2016,91.3,29
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2016,91.2,30
+United States,Washington DC,USA,USA_WAS,North America,2016,91.2,30
+France,Paris,FRA,FRA_PAR,Western Europe,2016,91.1,32
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2016,91.1,32
+United States,Boston,USA,USA_BOS,North America,2016,90.5,34
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2016,90.4,35
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2016,90.1,36
+United States,Chicago,USA,USA_CHI,North America,2016,89.8,37
+United States,Miami,USA,USA_MIA,North America,2016,89.8,37
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2016,89.7,39
+United States,Pittsburgh,USA,USA_PIT,North America,2016,89.6,40
+United States,Minneapolis,USA,USA_MIN,North America,2016,89.6,40
+Italy,Milan,ITA,ITA_MIL,Western Europe,2016,89.5,42
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2016,89.5,42
+United States,Seattle,USA,USA_SEA,North America,2016,88.8,44
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2016,88.8,44
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2016,88.8,44
+United States,Atlanta,USA,USA_ATL,North America,2016,88.6,47
+United States,Los Angeles,USA,USA_LOS,North America,2016,88.6,47
+United States,Cleveland,USA,USA_CLE,North America,2016,88.4,49
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2016,88,50
+Italy,Rome,ITA,ITA_ROM,Western Europe,2016,87.7,51
+United States,San Francisco,USA,USA_SAN,North America,2016,87.4,52
+Britain,London,GBR,GBR_LON,Western Europe,2016,87.2,53
+United States,Houston,USA,USA_HOU,North America,2016,87,54
+United States,New York,USA,USA_NEW,North America,2016,85.4,55
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2016,85.3,56
+United States,Detroit,USA,USA_DET,North America,2016,85,57
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2016,84.9,58
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2016,84.7,59
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2016,83.9,60
+United States,Lexington,USA,USA_LEX,North America,2016,83.3,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2016,82.4,62
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2016,81.5,63
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2016,80.7,64
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2016,80.3,65
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2016,78.9,66
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2016,78.7,67
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2016,77.9,68
+Greece,Athens,GRC,GRC_ATH,Western Europe,2016,75.3,69
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2016,75.2,70
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2016,75.2,70
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2016,75,72
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2016,74.9,73
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2016,74.7,74
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2016,74.4,75
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2016,74.1,76
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2016,74,77
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2016,73.6,78
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2016,72.9,79
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2016,72.8,80
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2016,72.1,81
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2016,71.9,82
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2016,71.8,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2016,71.5,84
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2016,70.9,85
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2016,70.5,86
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2016,70.3,87
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2016,69.7,88
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2016,69.7,88
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2016,69.1,90
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2016,68.8,91
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2016,68.2,92
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2016,68,93
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2016,67.9,94
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2016,67.8,95
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2016,67.5,96
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2016,66.3,97
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2016,66.1,98
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2016,65.4,99
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2016,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2016,64.4,101
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2016,63.5,102
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2016,62.3,103
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2016,62,104
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2016,61.1,105
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2016,60.3,106
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2016,59.8,107
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2016,59.6,108
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2016,59.3,109
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2016,58.9,110
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2016,58.5,111
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2016,58.2,112
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2016,57.8,113
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2016,57.1,114
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2016,56.9,115
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2016,55.4,116
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2016,54.6,117
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2016,54.4,118
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2016,54.2,119
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2016,53.1,120
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2016,53,121
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2016,52.7,122
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2016,51.4,123
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2016,51.3,124
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2016,51,125
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2016,51,125
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2016,51,125
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2016,50.8,128
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2016,49.7,129
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2016,48.3,130
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2016,47.8,131
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2016,44,132
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2016,42.6,133
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2016,40.9,134
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2016,40.9,134
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2016,38.9,136
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2016,38.7,137
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2016,36,138
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2016,35.9,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2016,30.2,140
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2015,97.5,1
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2015,97.4,2
+Canada,Vancouver,CAN,CAN_VAN,North America,2015,97.3,3
+Canada,Toronto,CAN,CAN_TOR,North America,2015,97.2,4
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2015,96.6,5
+Canada,Calgary,CAN,CAN_CAL,North America,2015,96.6,5
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2015,96.1,7
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2015,95.9,8
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2015,95.7,9
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2015,95.6,10
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2015,95.6,10
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2015,95.2,12
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2015,95,13
+Canada,Montreal,CAN,CAN_MON,North America,2015,94.8,14
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2015,94.7,15
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2015,94.7,15
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2015,94.5,17
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2015,94.2,18
+United States,Honolulu,USA,USA_HON,North America,2015,94.1,19
+Germany,Berlin,DEU,DEU_BER,Western Europe,2015,94,20
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2015,93.6,21
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2015,93.5,22
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2015,93.3,23
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2015,93.3,23
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2015,92.8,25
+Germany,Munich,DEU,DEU_MUN,Western Europe,2015,92.6,26
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2015,92.2,27
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2015,91.4,28
+France,Lyon,FRA,FRA_LYO,Western Europe,2015,91.3,29
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2015,91.2,30
+United States,Washington DC,USA,USA_WAS,North America,2015,91.2,30
+United States,Atlanta,USA,USA_ATL,North America,2015,91.1,32
+United States,Chicago,USA,USA_CHI,North America,2015,91.1,32
+France,Paris,FRA,FRA_PAR,Western Europe,2015,91.1,32
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2015,91.1,32
+United States,Boston,USA,USA_BOS,North America,2015,90.5,36
+United States,Miami,USA,USA_MIA,North America,2015,89.8,37
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2015,89.7,38
+United States,Minneapolis,USA,USA_MIN,North America,2015,89.6,39
+United States,Pittsburgh,USA,USA_PIT,North America,2015,89.6,40
+United States,Cleveland,USA,USA_CLE,North America,2015,89.6,40
+Italy,Milan,ITA,ITA_MIL,Western Europe,2015,89.5,42
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2015,89.5,42
+Italy,Rome,ITA,ITA_ROM,Western Europe,2015,89,44
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2015,88.9,45
+United States,Seattle,USA,USA_SEA,North America,2015,88.8,46
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2015,88.8,46
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2015,88.8,46
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2015,88.7,49
+United States,San Francisco,USA,USA_SAN,North America,2015,88.7,49
+United States,Los Angeles,USA,USA_LOS,North America,2015,88.6,51
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2015,88,52
+Britain,London,GBR,GBR_LON,Western Europe,2015,87.2,53
+United States,Houston,USA,USA_HOU,North America,2015,87,54
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2015,86.5,55
+United States,New York,USA,USA_NEW,North America,2015,85.4,56
+United States,Detroit,USA,USA_DET,North America,2015,85,57
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2015,84.9,58
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2015,84.7,59
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2015,83.9,60
+United States,Lexington,USA,USA_LEX,North America,2015,83.3,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2015,82.4,62
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2015,81.5,63
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2015,80.7,64
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2015,80.3,65
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2015,78.9,66
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2015,78.7,67
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2015,77.9,68
+Greece,Athens,GRC,GRC_ATH,Western Europe,2015,75.3,69
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2015,75.2,70
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2015,75.2,70
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2015,75,72
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2015,74.9,73
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2015,74.7,74
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2015,74.4,75
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2015,74.1,76
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2015,74,77
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2015,73.6,78
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2015,72.9,79
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2015,72.8,80
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2015,72.1,81
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2015,71.9,82
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2015,71.8,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2015,71.5,84
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2015,70.9,85
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2015,70.5,86
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2015,70.3,87
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2015,69.7,88
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2015,69.7,88
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2015,69.1,90
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2015,68.8,91
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2015,68.8,91
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2015,68.2,93
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2015,68,94
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2015,67.9,95
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2015,67.8,96
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2015,67.5,97
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2015,66.1,98
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2015,65.4,99
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2015,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2015,64.4,101
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2015,62.3,102
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2015,62.3,102
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2015,62,104
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2015,61.1,105
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2015,60.6,106
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2015,60.3,107
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2015,59.8,108
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2015,59.6,109
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2015,58.9,110
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2015,58.5,111
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2015,58.2,112
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2015,57.8,113
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2015,57.8,113
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2015,56.9,115
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2015,55.4,116
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2015,54.6,117
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2015,54.4,118
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2015,54.2,119
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2015,53.1,120
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2015,53,121
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2015,52.7,122
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2015,51.3,123
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2015,51,124
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2015,51,124
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2015,50.7,126
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2015,49.7,127
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2015,49.6,128
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2015,48.3,129
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2015,47.2,130
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2015,44.1,131
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2015,44,132
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2015,42.6,133
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2015,40.9,134
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2015,40.9,134
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2015,40,136
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2015,38.9,137
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2015,38.7,138
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2015,36,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2015,30.2,140
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2014,97.5,1
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2014,97.4,2
+Canada,Vancouver,CAN,CAN_VAN,North America,2014,97.3,3
+Canada,Toronto,CAN,CAN_TOR,North America,2014,97.2,4
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2014,96.6,5
+Canada,Calgary,CAN,CAN_CAL,North America,2014,96.6,5
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2014,96.1,7
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2014,95.9,8
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2014,95.7,9
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2014,95.6,10
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2014,95.6,10
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2014,95.2,12
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2014,95.2,12
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2014,95,14
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2014,95,14
+Canada,Montreal,CAN,CAN_MON,North America,2014,94.8,16
+France,Paris,FRA,FRA_PAR,Western Europe,2014,94.8,16
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2014,94.7,18
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2014,94.7,18
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2014,94.2,20
+Germany,Berlin,DEU,DEU_BER,Western Europe,2014,94,21
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2014,93.8,22
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2014,93.6,23
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2014,93.4,24
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2014,93.3,25
+United States,Honolulu,USA,USA_HON,North America,2014,92.8,26
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2014,92.8,26
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2014,92.7,28
+Germany,Munich,DEU,DEU_MUN,Western Europe,2014,92.6,29
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2014,91.4,30
+France,Lyon,FRA,FRA_LYO,Western Europe,2014,91.3,31
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2014,91.2,32
+United States,Washington DC,USA,USA_WAS,North America,2014,91.2,32
+United States,Atlanta,USA,USA_ATL,North America,2014,91.1,34
+United States,Chicago,USA,USA_CHI,North America,2014,91.1,34
+United States,Miami,USA,USA_MIA,North America,2014,91.1,34
+United States,Boston,USA,USA_BOS,North America,2014,90.5,37
+United States,Pittsburgh,USA,USA_PIT,North America,2014,90.3,38
+United States,Seattle,USA,USA_SEA,North America,2014,90,39
+United States,Los Angeles,USA,USA_LOS,North America,2014,89.8,40
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2014,89.7,41
+United States,Minneapolis,USA,USA_MIN,North America,2014,89.6,42
+United States,Cleveland,USA,USA_CLE,North America,2014,89.6,42
+United States,Houston,USA,USA_HOU,North America,2014,89.5,44
+Italy,Milan,ITA,ITA_MIL,Western Europe,2014,89.5,44
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2014,89.5,44
+Italy,Rome,ITA,ITA_ROM,Western Europe,2014,89,47
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2014,88.9,48
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2014,88.8,49
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2014,88.8,49
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2014,88.7,51
+United States,San Francisco,USA,USA_SAN,North America,2014,88.7,51
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2014,88,53
+Britain,London,GBR,GBR_LON,Western Europe,2014,87.2,54
+United States,Detroit,USA,USA_DET,North America,2014,87,55
+United States,New York,USA,USA_NEW,North America,2014,86.6,56
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2014,86.5,57
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2014,85.9,58
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2014,84.7,59
+United States,Lexington,USA,USA_LEX,North America,2014,84.6,60
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2014,83.9,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2014,82.4,62
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2014,81.5,63
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2014,80.7,64
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2014,78.9,65
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2014,78.7,66
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2014,78.2,67
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2014,77.9,68
+Greece,Athens,GRC,GRC_ATH,Western Europe,2014,77.5,69
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2014,76.2,70
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2014,75.5,71
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2014,75.2,72
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2014,75.2,72
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2014,74.7,74
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2014,74.7,74
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2014,74.6,76
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2014,74.4,77
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2014,73.9,78
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2014,73.1,79
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2014,72.9,80
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2014,72.2,81
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2014,72.1,82
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2014,71.8,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2014,71.5,84
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2014,71.5,84
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2014,70.9,86
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2014,70.9,86
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2014,70.5,88
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2014,69.7,89
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2014,69.4,90
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2014,69.1,91
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2014,69.1,91
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2014,69.1,91
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2014,68.8,94
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2014,68,95
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2014,67.8,96
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2014,67.8,96
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2014,66.1,98
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2014,65.4,99
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2014,65.3,100
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2014,64.4,101
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2014,63.8,102
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2014,62.6,103
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2014,62.3,104
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2014,62,105
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2014,62,105
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2014,61.1,107
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2014,60.3,108
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2014,59.6,109
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2014,58.9,110
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2014,58.6,111
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2014,58.5,112
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2014,58.2,113
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2014,57.8,114
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2014,56.9,115
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2014,55.1,116
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2014,54.6,117
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2014,54.2,118
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2014,54.2,118
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2014,53.6,120
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2014,52.7,121
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2014,51.9,122
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2014,51.4,123
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2014,51.3,124
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2014,51,125
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2014,51,125
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2014,49.6,127
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2014,48.7,128
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2014,48.4,129
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2014,48.3,130
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2014,45.9,131
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2014,44.2,132
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2014,44,133
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2014,42.6,134
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2014,40.9,135
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2014,40.9,135
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2014,39.7,137
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2014,38.9,138
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2014,38.7,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2014,29.3,140
+Australia,Melbourne,AUS,AUS_MEL,Asia & Australasia,2013,97.5,1
+Austria,Vienna,AUT,AUT_VIE,Western Europe,2013,97.4,2
+Canada,Vancouver,CAN,CAN_VAN,North America,2013,97.3,3
+Canada,Toronto,CAN,CAN_TOR,North America,2013,97.2,4
+Australia,Adelaide,AUS,AUS_ADE,Asia & Australasia,2013,96.6,5
+Canada,Calgary,CAN,CAN_CAL,North America,2013,96.6,5
+Australia,Sydney,AUS,AUS_SYD,Asia & Australasia,2013,96.1,7
+Finland,Helsinki,FIN,FIN_HEL,Western Europe,2013,96,8
+Australia,Perth,AUS,AUS_PER,Asia & Australasia,2013,95.9,9
+New Zealand,Auckland,NZL,NZL_AUC,Asia & Australasia,2013,95.7,10
+Switzerland,Zurich,CHE,CHE_ZUR,Western Europe,2013,95.6,11
+Japan,Osaka,JPN,JPN_OSA,Asia & Australasia,2013,95.2,12
+Switzerland,Geneva,CHE,CHE_GEN,Western Europe,2013,95.2,12
+Sweden,Stockholm,SWE,SWE_STO,Western Europe,2013,95,14
+Germany,Hamburg,DEU,DEU_HAM,Western Europe,2013,95,14
+Canada,Montreal,CAN,CAN_MON,North America,2013,94.8,16
+France,Paris,FRA,FRA_PAR,Western Europe,2013,94.8,16
+Japan,Tokyo,JPN,JPN_TOK,Asia & Australasia,2013,94.7,18
+Germany,Frankfurt,DEU,DEU_FRA,Western Europe,2013,94.7,18
+Australia,Brisbane,AUS,AUS_BRI,Asia & Australasia,2013,94.2,20
+Germany,Berlin,DEU,DEU_BER,Western Europe,2013,94,21
+New Zealand,Wellington,NZL,NZL_WEL,Asia & Australasia,2013,93.8,22
+Denmark,Copenhagen,DNK,DNK_COP,Western Europe,2013,93.8,22
+Norway,Oslo,NOR,NOR_OSL,Western Europe,2013,93.4,24
+Luxembourg,Luxembourg,LUX,LUX_LUX,Western Europe,2013,93.3,25
+United States,Honolulu,USA,USA_HON,North America,2013,92.8,26
+Netherlands,Amsterdam,NLD,NLD_AMS,Western Europe,2013,92.8,26
+Belgium,Brussels,BEL,BEL_BRU,Western Europe,2013,92.7,28
+Germany,Munich,DEU,DEU_MUN,Western Europe,2013,92.6,29
+United States,Pittsburgh,USA,USA_PIT,North America,2013,92.3,30
+Hong Kong,Hong Kong,HKG,CHN_HON,Asia & Australasia,2013,92,31
+Germany,Dusseldorf,DEU,DEU_DUS,Western Europe,2013,91.4,32
+France,Lyon,FRA,FRA_LYO,Western Europe,2013,91.3,33
+Spain,Barcelona,ESP,ESP_BAR,Western Europe,2013,91.2,34
+United States,Washington DC,USA,USA_WAS,North America,2013,91.2,34
+United States,Atlanta,USA,USA_ATL,North America,2013,91.1,36
+United States,Chicago,USA,USA_CHI,North America,2013,91.1,36
+United States,Miami,USA,USA_MIA,North America,2013,91.1,36
+United States,Detroit,USA,USA_DET,North America,2013,90.7,39
+United States,Boston,USA,USA_BOS,North America,2013,90.5,40
+United States,Seattle,USA,USA_SEA,North America,2013,90,41
+United States,Minneapolis,USA,USA_MIN,North America,2013,89.8,42
+United States,Los Angeles,USA,USA_LOS,North America,2013,89.8,42
+Spain,Madrid,ESP,ESP_MAD,Western Europe,2013,89.7,44
+United States,Cleveland,USA,USA_CLE,North America,2013,89.6,45
+United States,Houston,USA,USA_HOU,North America,2013,89.5,46
+Italy,Milan,ITA,ITA_MIL,Western Europe,2013,89.5,46
+Ireland,Dublin,IRL,IRL_DUB,Western Europe,2013,89.5,46
+Italy,Rome,ITA,ITA_ROM,Western Europe,2013,89,49
+Hungary,Budapest,HUN,HUN_BUD,Eastern Europe,2013,88.9,50
+Britain,Manchester,GBR,GBR_MAN,Western Europe,2013,88.8,51
+Singapore,Singapore,SGP,SGP_SIN,Asia & Australasia,2013,88.7,52
+United States,San Francisco,USA,USA_SAN,North America,2013,88.7,52
+Iceland,Reykjavik,ISL,ISL_REY,Western Europe,2013,88,54
+Britain,London,GBR,GBR_LON,Western Europe,2013,87.2,55
+United States,New York,USA,USA_NEW,North America,2013,86.6,56
+Portugal,Lisbon,PRT,PRT_LIS,Western Europe,2013,86.5,57
+South Korea,Seoul,KOR,KOR_SEO,Asia & Australasia,2013,85.9,58
+United States,Lexington,USA,USA_LEX,North America,2013,85.4,59
+Czech Republic,Prague,CZE,CZE_PRA,Eastern Europe,2013,84.7,60
+Taiwan,Taipei,TWN,TWN_TAI,Asia & Australasia,2013,83.9,61
+Argentina,Buenos Aires,ARG,ARG_BUE,Latin America & the Caribbean,2013,83.6,62
+Slovakia,Bratislava,SVK,SVK_BRA,Eastern Europe,2013,81.5,63
+Chile,Santiago,CHL,CHL_SAN,Latin America & the Caribbean,2013,80.7,64
+New Caledonia,Noum̩a,NCL,NCL_NOU,Asia & Australasia,2013,78.9,65
+Puerto Rico,San Juan,PRI,PRI_SAN,Latin America & the Caribbean,2013,78.7,66
+Greece,Athens,GRC,GRC_ATH,Western Europe,2013,78.5,67
+Poland,Warsaw,POL,POL_WAR,Eastern Europe,2013,78.2,68
+Uruguay,Montevideo,URY,URY_MON,Latin America & the Caribbean,2013,77.9,69
+Russia,St Petersburg,RUS,RUS_ST,Eastern Europe,2013,76.4,70
+Russia,Moscow,RUS,RUS_MOS,Eastern Europe,2013,76.3,71
+Malaysia,Kuala Lumpur,MYS,MYS_KUA,Asia & Australasia,2013,75.2,72
+Costa Rica,San José,CRI,CRI_SAN,Latin America & the Caribbean,2013,75.2,72
+China,Beijing,CHN,CHN_BEI,Asia & Australasia,2013,74.9,74
+China,Tianjin,CHN,CHN_TIA,Asia & Australasia,2013,74.7,75
+Israel,Tel Aviv,ISR,ISR_TEL,Middle East & North Africa,2013,74.4,76
+China,Suzhou,CHN,CHN_SUZ,Asia & Australasia,2013,74.3,77
+United Arab Emirates,Dubai,ARE,ARE_DUB,Middle East & North Africa,2013,74.2,78
+United Arab Emirates,Abu Dhabi,ARE,ARE_ABU,Middle East & North Africa,2013,73.1,79
+Peru,Lima,PER,PER_LIM,Latin America & the Caribbean,2013,72.9,80
+Kuwait,Kuwait City,KWT,KWT_KUW,Middle East & North Africa,2013,72.1,81
+Romania,Bucharest,ROU,ROU_BUC,Eastern Europe,2013,71.8,82
+China,Shanghai,CHN,CHN_SHA,Asia & Australasia,2013,71.7,83
+China,Shenzhen,CHN,CHN_SHE,Asia & Australasia,2013,71.5,84
+Bahrain,Bahrain,BHR,BHR_BAH,Middle East & North Africa,2013,71.5,84
+Qatar,Doha,QAT,QAT_DOH,Middle East & North Africa,2013,70.9,86
+Bulgaria,Sofia,BGR,BGR_SOF,Eastern Europe,2013,70.5,87
+China,Dalian,CHN,CHN_DAL,Asia & Australasia,2013,69.7,88
+Oman,Muscat,OMN,OMN_MUS,Middle East & North Africa,2013,69.7,88
+China,Guangzhou,CHN,CHN_GUA,Asia & Australasia,2013,69.4,90
+South Africa,Johannesburg,ZAF,ZAF_JOH,Sub-Saharan Africa,2013,69.1,91
+Brazil,Rio de Janeiro,BRA,BRA_RIO,Latin America & the Caribbean,2013,69.1,91
+Brazil,São Paulo,BRA,BRA_SAO,Latin America & the Caribbean,2013,69.1,91
+Paraguay,Asunción,PRY,PRY_ASU,Latin America & the Caribbean,2013,68.8,94
+Serbia,Belgrade,SRB,SRB_BEL,Eastern Europe,2013,68.1,95
+South Africa,Pretoria,ZAF,ZAF_PRE,Sub-Saharan Africa,2013,68,96
+Ukraine,Kiev,UKR,UKR_KIE,Eastern Europe,2013,67.9,97
+Panama,Panama City,PAN,PAN_PAN,Latin America & the Caribbean,2013,67.8,98
+Kazakhstan,Almaty,KAZ,KAZ_ALM,Eastern Europe,2013,66.7,99
+China,Qingdao,CHN,CHN_QIN,Asia & Australasia,2013,66.1,100
+Jordan,Amman,JOR,JOR_AMM,Middle East & North Africa,2013,65.4,101
+Thailand,Bangkok,THA,THA_BAN,Asia & Australasia,2013,65,102
+Brunei,Bandar Seri Begawan,BRN,BRN_BAN,Asia & Australasia,2013,64.4,103
+Tunisia,Tunis,TUN,TUN_TUN,Middle East & North Africa,2013,62.6,104
+Azerbaijan,Baku,AZE,AZE_BAK,Eastern Europe,2013,62.3,105
+Mexico,Mexico City,MEX,MEX_MEX,Latin America & the Caribbean,2013,62,106
+Philippines,Manila,PHL,PHL_MAN,Asia & Australasia,2013,62,106
+Ecuador,Quito,ECU,ECU_QUI,Latin America & the Caribbean,2013,61.1,108
+Saudi Arabia,Riyadh,SAU,SAU_RIY,Middle East & North Africa,2013,60.3,109
+Turkey,Istanbul,TUR,TUR_IST,Western Europe,2013,60.3,109
+Colombia,Bogotá,COL,COL_BOG,Latin America & the Caribbean,2013,59.6,111
+Morocco,Casablanca,MAR,MAR_CAS,Middle East & North Africa,2013,58.6,112
+India,New Delhi,IND,IND_NEW,Asia & Australasia,2013,58.6,112
+Saudi Arabia,Jeddah,SAU,SAU_JED,Middle East & North Africa,2013,58.5,114
+Guatemala,Guatemala City,GTM,GTM_GUA,Latin America & the Caribbean,2013,58.2,115
+India,Mumbai,IND,IND_MUM,Asia & Australasia,2013,56.9,116
+Venezuela,Caracas,VEN,VEN_CAR,Latin America & the Caribbean,2013,56.4,117
+Uzbekistan,Tashkent,UZB,UZB_TAS,Eastern Europe,2013,55.1,118
+Indonesia,Jakarta,IDN,IDN_JAK,Asia & Australasia,2013,54.6,119
+Vietnam,Hanoi,VNM,VNM_HAN,Asia & Australasia,2013,54.2,120
+Saudi Arabia,Al Khobar,SAU,SAU_AL,Middle East & North Africa,2013,54.2,120
+Egypt,Cairo,EGY,EGY_CAI,Middle East & North Africa,2013,53.6,122
+Vietnam,Ho Chi Minh City,VNM,VNM_HO,Asia & Australasia,2013,52.7,123
+Kenya,Nairobi,KEN,KEN_NAI,Sub-Saharan Africa,2013,51.9,124
+Zambia,Lusaka,ZMB,ZMB_LUS,Sub-Saharan Africa,2013,51.7,125
+Cambodia,Phnom Penh,KHM,KHM_PHN,Asia & Australasia,2013,51.4,126
+Nepal,Kathmandu,NPL,NPL_KAT,Asia & Australasia,2013,51,127
+Sri Lanka,Colombo,LKA,LKA_COL,Asia & Australasia,2013,49.6,128
+Senegal,Dakar,SEN,SEN_DAK,Sub-Saharan Africa,2013,48.3,129
+Cote d'Ivoire,Abidjan,CIV,CIV_ABI,Sub-Saharan Africa,2013,45.9,130
+Iran,Tehran,IRN,IRN_TEH,Middle East & North Africa,2013,45.8,131
+Libya,Tripoli,LBY,LBY_TRI,Middle East & North Africa,2013,44.2,132
+Cameroon,Douala,CMR,CMR_DOU,Sub-Saharan Africa,2013,43.3,133
+Zimbabwe,Harare,ZWE,ZWE_HAR,Sub-Saharan Africa,2013,42.1,134
+Pakistan,Karachi,PAK,PAK_KAR,Asia & Australasia,2013,40.9,135
+Algeria,Algiers,DZA,DZA_ALG,Middle East & North Africa,2013,40.9,135
+PNG,Port Moresby,PNG,PNG_POR,Asia & Australasia,2013,38.9,137
+Nigeria,Lagos,NGA,NGA_LAG,Sub-Saharan Africa,2013,38.9,137
+Bangladesh,Dhaka,BGD,BGD_DHA,Asia & Australasia,2013,38.7,139
+Syria,Damascus,SYR,SYR_DAM,Middle East & North Africa,2013,30.5,140
